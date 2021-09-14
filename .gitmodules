@@ -1,3 +1,6 @@
 [submodule "slgraff.github.io"]
 	path = slgraff.github.io
 	url = https://github.com/slgraff/slgraff.github.io
+[submodule "docs"]
+	path = docs
+	url = https://github.com/slgraff/slgraff.github.io
